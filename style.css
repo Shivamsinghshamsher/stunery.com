@@ -1,0 +1,87 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    /* background-color: red; */
+}
+
+.logo {
+    height: 2.1rem;
+    width: 11rem;
+    border-radius: 7px;
+    margin-left: 6px;
+    margin-right: 26px;
+}
+
+.mynav {
+    background-color: rgb(4, 0, 0);
+}
+
+.mynav a {
+    color: white;
+
+}
+
+
+
+.mynav li {
+    /* padding-right: 1.5rem; */
+
+}
+
+.mydrop a {
+    color: rgb(210, 17, 17);
+}
+
+/* .myimage{
+    margin-top: 4px;
+
+} */
+.myimage img {
+    position: relative;
+    width: 100wh;
+    height: 100vh;
+    /* height: 42rem; */
+    /* height: 25rem;
+    width: 62.9rem; */
+
+    margin: 0%;
+    padding: 0%;
+    opacity: 50%;
+}
+
+.myheading {
+    position: absolute;
+    top: 19rem;
+    color: rgb(247, 251, 251);
+    left: 20rem;
+}
+
+.myProduct img{
+    height: 241px;
+    width: 161px;
+}
+.products{
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 0px;
+}
+
+/* .Aboutus{
+    margin-top: 26px;
+} */
+.Aboutus {
+    margin-top: 26px;
+    margin-left: 22px;
+}
+.Aboutus p{
+    
+    margin-left: 19;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
